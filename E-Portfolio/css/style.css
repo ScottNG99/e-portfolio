@@ -1,0 +1,162 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Tiro+Gurmukhi&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&family=Tiro+Gurmukhi&display=swap');
+.col-4{
+    width: 23%;
+    flex: 0 0 auto;
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    display: flex;
+    justify-content: center;
+    
+    
+
+}
+.col-8{
+    width: 75%;
+    flex: 0 0 auto;
+    margin-top: 3%;
+
+    
+} 
+.d-flex{
+    display: flex;
+    
+}
+#simple-list-item-1{
+    text-align: center;
+}
+.content-1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 35px;
+
+}
+.row-detail{
+    display: flex;
+    flex-direction: row;
+}
+.row-detail img{
+    flex: 0 0 auto;
+    
+    
+}
+.row-detail p{
+    margin-left: 15px;
+   
+    
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Tiro Gurmukhi', serif;
+    font-weight: 400;
+    line-height: 1.857142857142857rem;
+    font-size: 1.142857142857143rem;
+    color: #222;
+    margin-bottom: 1.857142857142857rem;
+}
+
+#simple-list-item-1{
+    border-style:solid;
+	border-width:1px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+h4{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Tiro Gurmukhi', serif;
+    font-weight: 600;
+}
+.content-2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 35px;
+}
+#simple-list-item-2{
+    border-style:solid;
+	border-width:1px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+#simple-list-item-3{
+    border-style:solid;
+	border-width:1px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.content-3{
+    display: flex;
+    flex-direction: row;
+    margin-top: 35px;
+}
+
+#simple-list-item-4{
+    border-style:solid;
+	border-width:1px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.content-4{
+    display: flex;
+    flex-direction: column;
+    margin-top: 35px;
+}
+.self1{
+    display: flex;
+    flex-direction: row;
+}
+.self1 p{
+   align-self: center;
+   margin-left: 15px;
+}
+.self2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+}
+.self2 p{
+    align-self: center;
+    margin-right: 15px;
+ }
+
+#simple-list-example{
+
+   position: fixed;
+   margin-top: 15%;
+    
+  
+}
+
+
+.gap-2 {
+    gap: 3.9rem!important;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Tiro Gurmukhi', serif;
+    font-weight: 600;
+}
+.detail-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
